@@ -13,7 +13,7 @@ I build scalable ML systems, fine-tune LLMs, and work on real-time data pipeline
 
 📌 **Skills:** Python, PyTorch, AWS, Kafka, Spark, FastAPI  
 📌 **Projects:** [YouTube Comments Search](https://github.com/Sudhanshu3939/youtube-comments-search), [RAG Chatbot](#)  
-📌 **Resume:** [Download PDF](assets/Resume_Sudhanshu_Manohar_Resume_v4.4.pdf)
+📌 **Resume:** [Download PDF](/assets/Resume_Sudhanshu_Manohar_Resume_v4.4.pdf)
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
