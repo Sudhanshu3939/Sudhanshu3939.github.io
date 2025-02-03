@@ -1,11 +1,12 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Deep Learning (PyTorch, sklearn)
+  percentage: 80
   color: danger
 
-- name: Go
+- name: NLP (Transformers, RAG, Fine-tuning LLMs)  
   percentage: 80
   color:
 
-- name: Python
-  percentage: 70
+- name: Computer Vision (ViT, CNNs, Image Classification)  
+  percentage: 80
   color: secondary
+

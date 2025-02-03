@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Data Engineering (Apache Kafka, Apache Spark) 
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Deployment (Docker, FastAPI, GitHub Actions, Streamlit)
+  percentage: 80
   color: success
+
+- name: Monitoring (AWS Cloudwatch, Grafana)
+  percentage: 80
+  color: warning
