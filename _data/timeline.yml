@@ -1,17 +1,18 @@
-- title: to be updated
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: to be updated
+- title: Machine Learning Engineer
+  from: JAN 2022
+  to: JULY 2023
+  description: I worked as a Machine Learning Engineer, where I built and deployed end-to-end ML models for real-world applications. 
+    My role involved developing and fine-tuning deep learning models using PyTorch, building data pipelines with Apache Airflow, AWS Glue, and Kafka, 
+    deploying models using FastAPI, Docker, and AWS ECS, implementing CI/CD pipelines with GitHub Actions for automated deployments, 
+    and monitoring models using CloudWatch to ensure performance optimization. 
+    This experience strengthened my expertise in ML engineering, data science, and cloud deployment.
+ 
+- title: B.Tech in CSE, Indian Institute of Information Technology, Vadodara(IIIT-V)
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2022
+  description: I completed my B.Tech in Computer Science & Engineering
+   from IIIT Vadodara, where I built a strong foundation in machine 
+   learning, data science, and software engineering**. During my time at IIIT,
+    I worked on various academic and personal projects, deepening my expertise 
+    in ML, NLP, and cloud technologies.
+
